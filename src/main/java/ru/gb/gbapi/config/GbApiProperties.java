@@ -31,5 +31,7 @@ public class GbApiProperties {
         private String categoryInternalUrl;
         private String productExternalUrl;
         private String productInternalUrl;
+        private String orderExternalUrl;
+        private String orderInternalUrl;
     }
 }
